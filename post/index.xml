@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BIM na EPS de Lugo</title>
-    <link>https://bimnaepsdelugo.es/posts/</link>
+    <link>https://bimnaepsdelugo.es/post/</link>
     <description>Recent content in Posts on BIM na EPS de Lugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Mon, 29 Mar 2021 10:17:03 +0100</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 10:17:03 +0100</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datos do curso</title>
-      <link>https://bimnaepsdelugo.es/posts/datos/</link>
+      <link>https://bimnaepsdelugo.es/datos-do-curso/</link>
       <pubDate>Mon, 29 Mar 2021 10:17:03 +0100</pubDate>
       
-      <guid>https://bimnaepsdelugo.es/posts/datos/</guid>
+      <guid>https://bimnaepsdelugo.es/datos-do-curso/</guid>
       <description>Esta entrada esta a ser usada para facer probas.</description>
     </item>
     
