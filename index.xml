@@ -5,17 +5,16 @@
     <link>https://bimnaepsdelugo.es/</link>
     <description>Recent content on BIM na EPS de Lugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
+    <language>es-ES</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Mon, 29 Mar 2021 10:17:03 +0100</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First entry</title>
-      <link>https://bimnaepsdelugo.es/first-entry/</link>
+      <title>Datos do curso</title>
+      <link>https://bimnaepsdelugo.es/posts/datos/</link>
       <pubDate>Mon, 29 Mar 2021 10:17:03 +0100</pubDate>
       
-      <guid>https://bimnaepsdelugo.es/first-entry/</guid>
-      <description>This is a first post that will serve as a test for the pagination plugin.
-There won be anything of value here for now.</description>
+      <guid>https://bimnaepsdelugo.es/posts/datos/</guid>
+      <description>Esta entrada esta a ser usada para facer probas.</description>
     </item>
     
     <item>
@@ -25,6 +24,15 @@ There won be anything of value here for now.</description>
       
       <guid>https://bimnaepsdelugo.es/about/</guid>
       <description>Curso de Veran acerca das tecnoloxias BIM</description>
+    </item>
+    
+    <item>
+      <title>Qenes somos...</title>
+      <link>https://bimnaepsdelugo.es/contact/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bimnaepsdelugo.es/contact/</guid>
+      <description>Escribenos ao noso correo: bim@eps.es</description>
     </item>
     
   </channel>
