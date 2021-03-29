@@ -19,14 +19,12 @@ There won be anything of value here for now.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>Qenes somos...</title>
       <link>https://bimnaepsdelugo.es/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bimnaepsdelugo.es/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Curso de Veran acerca das tecnoloxias BIM</description>
     </item>
     
   </channel>
