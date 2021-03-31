@@ -9,7 +9,16 @@
     <copyright>Todolos dereitos reservados</copyright>
     <lastBuildDate>Tue, 30 Mar 2021 20:41:01 +0100</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cursos</title>
+      <title>BIM</title>
+      <link>https://bimnaepsdelugo.es/tags/bim/</link>
+      <pubDate>Tue, 30 Mar 2021 20:41:01 +0100</pubDate>
+      
+      <guid>https://bimnaepsdelugo.es/tags/bim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
       <link>https://bimnaepsdelugo.es/tags/cursos/</link>
       <pubDate>Tue, 30 Mar 2021 20:41:01 +0100</pubDate>
       
@@ -18,7 +27,7 @@
     </item>
     
     <item>
-      <title>eventos</title>
+      <title>Eventos</title>
       <link>https://bimnaepsdelugo.es/tags/eventos/</link>
       <pubDate>Tue, 30 Mar 2021 20:41:01 +0100</pubDate>
       
