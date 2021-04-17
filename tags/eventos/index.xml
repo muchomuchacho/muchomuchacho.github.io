@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>Todolos dereitos reservados</copyright>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bimnaepsdelugo.es/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Información Adicional</title>
+      <link>https://bimnaepsdelugo.es/artigos/informacion_adicional/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bimnaepsdelugo.es/artigos/informacion_adicional/</guid>
+      <description>Liks https://en.wikipedia.org/wiki/Building_information_modeling
+ cursosdeveran@usc.es
+www.usc.gal/cultura/veran</description>
+    </item>
+    
     <item>
       <title>3. PROGRAMA E CONFERENCIANTES</title>
       <link>https://bimnaepsdelugo.es/3.programa/</link>
@@ -76,15 +87,6 @@ Coñecemento do BIM. Idea xeral da Metodoloxía e AnClise de tódolos Perfiles T
       
       <guid>https://bimnaepsdelugo.es/2.calendario/</guid>
       <description>CALENDARIO E LUGAR DE IMPARTICIÓN</description>
-    </item>
-    
-    <item>
-      <title>Programa e datos de rexistro</title>
-      <link>https://bimnaepsdelugo.es/artigos/informacion-e-rexistro/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimnaepsdelugo.es/artigos/informacion-e-rexistro/</guid>
-      <description>Programa, horario e datos de rexistro para o curso de verán</description>
     </item>
     
   </channel>
