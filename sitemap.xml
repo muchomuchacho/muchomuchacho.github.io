@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://traseirainteriores.com/8.conferenciantes/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <loc>https://traseirainteriores.com/artigos/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/tags/bim/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/tags/cursos/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/tags/eventos/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://traseirainteriores.com/artigos/informacion_adicional/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/tags/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://traseirainteriores.com/8.conferenciantes/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/4.obxectivos/</loc>
@@ -40,12 +46,6 @@
   </url><url>
     <loc>https://traseirainteriores.com/3.programa/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://traseirainteriores.com/artigos/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://traseirainteriores.com/artigos/informacion_adicional/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://traseirainteriores.com/categories/</loc>
   </url>

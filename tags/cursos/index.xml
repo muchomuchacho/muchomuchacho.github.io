@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Todolos dereitos reservados</copyright>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://traseirainteriores.com/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://traseirainteriores.com/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Información Adicional</title>
+      <link>https://traseirainteriores.com/artigos/informacion_adicional/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://traseirainteriores.com/artigos/informacion_adicional/</guid>
+      <description>Información de interes</description>
+    </item>
+    
     <item>
       <title>8. CONFERENCIANTES</title>
       <link>https://traseirainteriores.com/8.conferenciantes/</link>
@@ -96,15 +105,6 @@ Introducción a ISTRAM
  CONFERENCIAS: Horario de mañana, de 9:30 a 14:00   9:30 a 11:15
  Conferencia 1. Empresa privada B&amp;amp;A - Building &amp;amp; Architecture
 Conocimiento del BIM. Idea general de la Metodología y Análisis de todos los Perfiles Técnicos BIM.</description>
-    </item>
-    
-    <item>
-      <title>Información Adicional</title>
-      <link>https://traseirainteriores.com/artigos/informacion_adicional/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://traseirainteriores.com/artigos/informacion_adicional/</guid>
-      <description>Links e outra información de interese</description>
     </item>
     
   </channel>
