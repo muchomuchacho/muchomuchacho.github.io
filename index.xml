@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>2. Ubicacion</title>
+      <link>https://traseirainteriores.com/2.ubicacion/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://traseirainteriores.com/2.ubicacion/</guid>
+      <description>Nuestra direccion es: Lugo (Galicia)</description>
+    </item>
+    
+    <item>
       <title>Información Adicional</title>
       <link>https://traseirainteriores.com/artigos/informacion_adicional/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
@@ -33,15 +42,6 @@
       
       <guid>https://traseirainteriores.com/1.conocenos/</guid>
       <description>     Datos de relevancia.      </description>
-    </item>
-    
-    <item>
-      <title>2. Conocenos</title>
-      <link>https://traseirainteriores.com/2.ubicacion/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://traseirainteriores.com/2.ubicacion/</guid>
-      <description>Nuestra direccion es: Lugo (Galicia)</description>
     </item>
     
   </channel>
